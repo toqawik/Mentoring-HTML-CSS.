@@ -1,4 +1,6 @@
-"# Mentoring-HTML-CSS." 2. Togzhan Baidish
+1. Mentoring-HTML-CSS.
+
+2. Togzhan Baidish
 
 Dedicated Data Analyst with a strong analytical mindset and proficiency in Python, SQL, and data visualization tools, seeking to leverage data-driven insights for informed decision-making in a collaborative and dynamic work environment.
 
