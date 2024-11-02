@@ -1,1 +1,3 @@
-"# Mentoring-HTML-CSS." 
+Togzhan Baidish
+EPAM
+education, personal projects, etc.
